@@ -1,1 +1,3 @@
-Game Name,https://example.com/download
+Game Name 1,Description for Game 1,https://example.com/image1.jpg,https://example.com/download1
+Game Name 2,Description for Game 2,https://example.com/image2.jpg,https://example.com/download2
+Game Name 3,Description for Game 3,https://example.com/image3.jpg,https://example.com/download3
