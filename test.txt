@@ -1,10 +1,4 @@
 Minecraft,"A sandbox game about breaking and placing blocks.",https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png,https://www.minecraft.net/en-us/download
 Grand Theft Auto V,"An action-adventure game set in an open world.",https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png,https://www.rockstargames.com/V/
 Fortnite,"A free-to-play battle royale game with creative modes.",https://upload.wikimedia.org/wikipedia/en/0/0e/Fortnite_save_the_world.jpg,https://www.epicgames.com/fortnite/en-US/home
-The Legend of Zelda: Breath of the Wild,"An open-world adventure game set in Hyrule.",https://upload.wikimedia.org/wikipedia/en/a/a2/The_Legend_of_Zelda_Breath_of_the_Wild.jpg,https://www.nintendo.com/store/products/the-legend-of-zelda-breath-of-the-wild-switch/
-Call of Duty: Modern Warfare II,"A first-person shooter game in the iconic COD series.",https://upload.wikimedia.org/wikipedia/en/c/cd/Call_of_Duty_Modern_Warfare_II.jpg,https://www.callofduty.com/modernwarfare2
-Elden Ring,"An action RPG game in a vast, mysterious world.",https://upload.wikimedia.org/wikipedia/en/5/5c/Elden_Ring_Box_art.jpg,https://en.bandainamcoent.eu/elden-ring/elden-ring
-Cyberpunk 2077,"An open-world RPG set in a futuristic dystopian city.",https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg,https://www.cyberpunk.net/
-League of Legends,"A multiplayer online battle arena game (MOBA).",https://upload.wikimedia.org/wikipedia/en/3/39/League_of_Legends_logo.png,https://www.leagueoflegends.com/
 Valorant,"A tactical first-person shooter with unique agents.",https://upload.wikimedia.org/wikipedia/en/f/f1/Valorant_Logo.png,https://playvalorant.com/
-The Witcher 3: Wild Hunt,"An open-world RPG following Geralt of Rivia.",https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg,https://thewitcher.com/en/witcher3
