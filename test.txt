@@ -2,3 +2,4 @@ Minecraft,"A sandbox game about breaking and placing blocks.",https://upload.wik
 Grand Theft Auto V,"An action-adventure game set in an open world.",https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png,https://filecr.com/pc-games/grand-theft-auto-gta-5-free-download/
 Fortnite,"A free-to-play battle royale game with creative modes.",https://upload.wikimedia.org/wikipedia/en/7/72/Fortnite_BR_cover.jpg,https://www.epicgames.com/fortnite/en-US/home
 Valorant,"A tactical first-person shooter with unique agents.",https://upload.wikimedia.org/wikipedia/en/b/ba/Valorant_cover.jpg,https://playvalorant.com/
+Cyberpunk 2077,"An open-world action-adventure RPG set in a dystopian future.",https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg,https://7launcher.com/cyberpunk-2077/?lang=en
