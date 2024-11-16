@@ -4,7 +4,7 @@ Fortnite,"A free-to-play battle royale game with creative modes.",https://upload
 Valorant,"A tactical first-person shooter with unique agents.",https://upload.wikimedia.org/wikipedia/en/b/ba/Valorant_cover.jpg,https://playvalorant.com/
 Cyberpunk 2077,"An open-world action-adventure RPG set in a dystopian future.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg,https://koyso.com/game/20
 Resident Evil Village,"A survival horror game set in a mysterious European village.",https://upload.wikimedia.org/wikipedia/en/2/2c/Resident_Evil_Village.png,https://koyso.com/game/151
-Assassin's Creed Mirage,"An action-adventure game exploring the Golden Age of Baghdad.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900.jpg,https://koyso.com/game/1205
+Assassin's Creed Mirage,"An action-adventure game exploring the Golden Age of Baghdad.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900.jpg,https://cdn1.koyso.com/Assassins.CM.v1.0.6.rar?verify=1731784421-Vf%2F%2FK6L6qNlfzGljdzD0e%2FEbDT1ERlXIMdd1rE0Uo1Q%3D
 Hearts of Iron IV,"A grand strategy game set during World War II.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/394360/library_600x900.jpg,https://koyso.com/game/359
 ELDEN RING,"An open-world action RPG set in a dark fantasy universe.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg,https://koyso.com/game/12
 Sekiro: Shadows Die Twice - GOTY Edition,"An action-adventure game featuring intense samurai combat in a dark, fantastical world.",https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg,https://koyso.com/game/15
