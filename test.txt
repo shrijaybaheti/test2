@@ -1,4 +1,4 @@
-Minecraft,"A sandbox game about breaking and placing blocks.",https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png,https://www.minecraft.net/en-us/download
+Minecraft,"A sandbox game about breaking and placing blocks.",https://en.wikipedia.org/wiki/File:Minecraft_2024_cover_art.png,https://www.minecraft.net/en-us/download
 Grand Theft Auto V,"An action-adventure game set in an open world.",https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png,https://www.rockstargames.com/V/
 Fortnite,"A free-to-play battle royale game with creative modes.",https://upload.wikimedia.org/wikipedia/en/0/0e/Fortnite_save_the_world.jpg,https://www.epicgames.com/fortnite/en-US/home
 The Legend of Zelda: Breath of the Wild,"An open-world adventure game set in Hyrule.",https://upload.wikimedia.org/wikipedia/en/a/a2/The_Legend_of_Zelda_Breath_of_the_Wild.jpg,https://www.nintendo.com/store/products/the-legend-of-zelda-breath-of-the-wild-switch/
