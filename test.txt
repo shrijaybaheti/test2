@@ -7,7 +7,8 @@ Resident Evil Village,"A survival horror game set in a mysterious European villa
 Assassin's Creed Mirage,"An action-adventure game exploring the Golden Age of Baghdad.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900.jpg,https://koyso.com/game/1205
 Hearts of Iron IV,"A grand strategy game set during World War II.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/394360/library_600x900.jpg,https://koyso.com/game/359
 ELDEN RING,"An open-world action RPG set in a dark fantasy universe.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg,https://koyso.com/game/12
-Sekiro: Shadows Die Twice - GOTY Edition,"An action-adventure game featuring intense samurai combat in a dark, fantastical world.",https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg,https://koyso.com/game/15
+Sekiro: Shadows Die Twice - GOTY Edition,"An action-adventure game featuring intense samurai combat in a dark, fantastical world.",https://raw.githubusercontent.com/shrijaybaheti/test2/main/pics/Sekiro_art.jpg
+,https://koyso.com/game/15
 Red Dead Redemption 2,"An open-world action-adventure game set in the late 1800s, focusing on the life of an outlaw.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg,https://koyso.com/game/11
 Red Dead Redemption,"An open-world action-adventure game set in the American frontier, following a former outlaw's quest for redemption.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2668510/library_600x900.jpg,https://koyso.com/game/1172
 Buckshot Roulette,"A first-person action game where players engage in high-stakes Russian roulette with a 12-gauge shotgun, using items and strategy to influence the outcome.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2835570/library_600x900.jpg,https://koyso.com/game/687
