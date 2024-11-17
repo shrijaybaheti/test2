@@ -1,6 +1,6 @@
-Minecraft,"A sandbox game about breaking and placing blocks.",https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png,https://tlauncher.org/en/
+Minecraft,"A sandbox game about breaking and placing blocks.",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgPJQcSwLP70ajOzhcshMUj9F1tmpjCLTQqg&s,https://tlauncher.org/en/
 Grand Theft Auto V,"An action-adventure game set in an open world.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900.jpg,https://koyso.com/game/98
-Fortnite,"A free-to-play battle royale game with creative modes.",https://upload.wikimedia.org/wikipedia/en/7/72/Fortnite_BR_cover.jpg,https://www.epicgames.com/fortnite/en-US/home
+Fortnite,"A free-to-play battle royale game with creative modes.",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-z-qVWkxAoEkKrUTW3DiANtWmYWNs9_u-w&s,https://www.epicgames.com/fortnite/en-US/home
 Valorant,"A tactical first-person shooter with unique agents.",https://upload.wikimedia.org/wikipedia/en/b/ba/Valorant_cover.jpg,https://playvalorant.com/
 Cyberpunk 2077,"An open-world action-adventure RPG set in a dystopian future.",https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg,https://koyso.com/game/20
 Resident Evil Village,"A survival horror game set in a mysterious European village.",https://upload.wikimedia.org/wikipedia/en/2/2c/Resident_Evil_Village.png,https://koyso.com/game/151
